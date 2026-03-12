@@ -50,6 +50,7 @@ Developed by: RegisterNumber:J.Harshini 212224050120
 ![WhatsApp Image 2026-03-12 at 1 54 29 PM](https://github.com/user-attachments/assets/53a7868f-8781-41a6-b019-4448165a8e15)
 
 **RESULTS**
+Thus the jk flipflop using verilog and validating thier functionality using their tables implemented.
 
 
 
